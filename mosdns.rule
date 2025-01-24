@@ -1,2 +1,4 @@
 payload:
   - PROCESS-NAME,mosdns
+  - DOMAIN,checkip.dyndns.com
+  - DOMAIN,ipv4.dynv6.com
