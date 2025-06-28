@@ -13,5 +13,4 @@ payload:
   - DOMAIN,xhww.fun
   - DOMAIN-SUFFIX,femida.io
   - DOMAIN-SUFFIX,112114.xyz
-  - DOMAIN,hdhive.online
-  - DOMAIN,hdhive.com
+  - DOMAIN-KEYWORD,hdhive
